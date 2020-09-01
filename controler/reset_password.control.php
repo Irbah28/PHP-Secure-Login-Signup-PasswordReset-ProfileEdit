@@ -199,7 +199,7 @@ function eventHandler(){
         $reset->checkResetValidity($values);
     }
 
-    header("Location: " .$_SERVER['HTTP_REFERER']. "?Fuck");
+    header("Location: " .$_SERVER['HTTP_REFERER']. "?");
     exit();
 }
 
