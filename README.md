@@ -2,11 +2,17 @@
 PHP login system with secure code practices.
 
   -Signup
+  
   -Login
+  
   -Logout
+  
   -Forgoten password Reset
+  
   -Password Update
+  
   -Username Update
+  
   -Email Update
   
 
