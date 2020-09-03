@@ -16,14 +16,15 @@ PHP login system with secure code practices.
   -Email Update
   
   
+# Followed guidelines
+
+  -Cross-site scripting
   
-  Cross-site scripting
+  -SALT Hash sensitive data
   
-  SALT Hash sensitive data
+  -Email verify 
   
-  Email verify 
-  
-  Clean data 
+  -Clean data 
   
 
 
