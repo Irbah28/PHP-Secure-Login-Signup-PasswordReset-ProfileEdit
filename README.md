@@ -15,6 +15,12 @@ PHP login system with secure code practices.
   
   -Email Update
   
+  
+  Cross-site scripting
+  SALT Hash sensitive data
+  Email verify 
+  Clean data 
+  
 
 
 # Email Forwarding
